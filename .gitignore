@@ -4,3 +4,5 @@ ropeproject/
 # python
 myenv/
 
+# mac
+.DS_Store
